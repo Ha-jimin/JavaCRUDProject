@@ -162,7 +162,7 @@ public class WordCRUD implements ICRUD{
 
     public void searchWord() {
         System.out.print("=> 원하는 단어는? ");
-        String key = s.nextLine();
+        String key = s.next();
         listAll(key);
     }
 }

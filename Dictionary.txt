@@ -19,4 +19,4 @@
 2|donation|기부
 3|entity|개체
 2|tendency|경향
-1| apple|사과
+1| apple|맛있는 사과

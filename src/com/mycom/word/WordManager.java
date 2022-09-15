@@ -38,6 +38,9 @@ public class WordManager {
                 //모든 단어 보여주기
                 wordCRUD.listAll();
             }
+            else if(menu == 2){
+                wordCRUD.searchLevel();
+            }
             else if(menu == 5) {
                 //단어 수정
                 wordCRUD.updateItem();

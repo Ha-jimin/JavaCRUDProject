@@ -10,6 +10,9 @@ public class Word {
                 +String.format("%15s", word)+ " " + meaning;//정렬
         return str;
     }
+    public String toFileString(){
+        return this.level + "|" + this.word + "|" + this.meaning;
+    }
 
     private int id;
     private int level;

@@ -20,10 +20,8 @@
 
 [2. 수준별 단어보기]
 
-<img src = 'https://user-images.githubusercontent.com/100747281/190309423-2ee0c2cf-e925-46cd-b880-a454fe4ec8be.png
-'>
+<img src = 'https://user-images.githubusercontent.com/100747281/190309423-2ee0c2cf-e925-46cd-b880-a454fe4ec8be.png'>
 
-<img src = 'https://user-images.githubusercontent.com/100747281/190309456-96d4ea0c-93a5-4735-9c6d-b938410d8679.png
-'>
+<img src = 'https://user-images.githubusercontent.com/100747281/190309456-96d4ea0c-93a5-4735-9c6d-b938410d8679.png'>
 
 <img src = 'https://user-images.githubusercontent.com/100747281/190309471-59519a49-64a3-48f3-ae7c-8f74cbd9fd20.png'>

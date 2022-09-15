@@ -29,5 +29,5 @@
 
 [3. 단어 검색]
 
-img src = 'https://user-images.githubusercontent.com/100747281/190310160-3dbe3bc7-29f1-401e-966d-1bf27a9bed2d.png'>
+<img src = 'https://user-images.githubusercontent.com/100747281/190310160-3dbe3bc7-29f1-401e-966d-1bf27a9bed2d.png'>
 

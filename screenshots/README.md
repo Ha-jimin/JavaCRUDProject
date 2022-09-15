@@ -39,3 +39,9 @@
 
 ![단어검색](https://user-images.githubusercontent.com/100747281/190310160-3dbe3bc7-29f1-401e-966d-1bf27a9bed2d.png)
 
+
+
+[5. 단어 수정]
+
+
+![단어 수정](https://user-images.githubusercontent.com/100747281/190310614-5d6eb305-3854-459f-8ad3-1a646ed76307.png)

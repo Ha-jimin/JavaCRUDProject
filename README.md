@@ -25,3 +25,9 @@
 <img src = 'https://user-images.githubusercontent.com/100747281/190309456-96d4ea0c-93a5-4735-9c6d-b938410d8679.png'>
 
 <img src = 'https://user-images.githubusercontent.com/100747281/190309471-59519a49-64a3-48f3-ae7c-8f74cbd9fd20.png'>
+
+
+[3. 단어 검색]
+
+img src = 'https://user-images.githubusercontent.com/100747281/190310160-3dbe3bc7-29f1-401e-966d-1bf27a9bed2d.png'>
+

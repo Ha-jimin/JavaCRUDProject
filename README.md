@@ -40,3 +40,29 @@
 
 
 
+[6. 단어 삭제]
+
+
+<img src = 'https://user-images.githubusercontent.com/100747281/190311410-f5f233ea-760c-4708-8299-f351338da27b.png'>
+
+
+
+[7. 파일 저장]
+
+
+<img src = 'https://user-images.githubusercontent.com/100747281/190311485-81aaa0cd-2748-4ae6-829e-da9cdaa08a69.png'>
+
+
+
+<img src = 'https://user-images.githubusercontent.com/100747281/190311536-bfeaf004-8b70-4b23-8b72-1e24d257bffa.png'>
+
+
+
+[1. 모든 단어 보기]
+
+
+<img src = 'https://user-images.githubusercontent.com/100747281/190311610-8fe61931-8b45-4c84-912e-b42eea0ced85.png'>
+
+
+
+<img src = 'https://user-images.githubusercontent.com/100747281/190311639-8ef42139-a9a3-4959-8943-eef8a071911b.png'>

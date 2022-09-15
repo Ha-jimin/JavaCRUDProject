@@ -45,3 +45,32 @@
 
 
 ![단어 수정](https://user-images.githubusercontent.com/100747281/190310614-5d6eb305-3854-459f-8ad3-1a646ed76307.png)
+
+
+
+[6. 단어 삭제]
+
+
+![단어 삭제](https://user-images.githubusercontent.com/100747281/190311410-f5f233ea-760c-4708-8299-f351338da27b.png)
+
+
+
+[7. 파일 저장]
+
+
+![파일 저장](https://user-images.githubusercontent.com/100747281/190311485-81aaa0cd-2748-4ae6-829e-da9cdaa08a69.png)
+
+
+
+![파일 내용](https://user-images.githubusercontent.com/100747281/190311536-bfeaf004-8b70-4b23-8b72-1e24d257bffa.png)
+
+
+
+[1. 모든 단어 보기]
+
+
+![모든 단어 로딩](https://user-images.githubusercontent.com/100747281/190311610-8fe61931-8b45-4c84-912e-b42eea0ced85.png)
+
+
+
+![모든 단어 로딩2](https://user-images.githubusercontent.com/100747281/190311639-8ef42139-a9a3-4959-8943-eef8a071911b.png)

@@ -31,3 +31,11 @@
 
 
 ![수준별3](https://user-images.githubusercontent.com/100747281/190309471-59519a49-64a3-48f3-ae7c-8f74cbd9fd20.png)
+
+
+
+[3. 단어 검색]
+
+
+![단어검색](https://user-images.githubusercontent.com/100747281/190310160-3dbe3bc7-29f1-401e-966d-1bf27a9bed2d.png)
+
